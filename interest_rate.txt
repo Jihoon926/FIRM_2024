@@ -1,0 +1,30 @@
+미국 무위험 수익률
+
+1. SOFR(Secured Overnight Financing Rate)
+: interest rate published by the Federal Reserve Bank of New York.
+
+2. CME Term SOFR rates: provide a forecast of the SOFR rate for different maturities, 
+such as 1 month, 3 months, 6 months, and 12 months
+CME(Chicago Mercantile Exchange) <-- 내가 접근할 수가 없음
+
+3. 미국채 수익률
+https://kr.investing.com/rates-bonds/u.s.-3-month-bond-yield 
+
+
+한국 무위험 수익률 
+
+국채
+https://kr.investing.com/rates-bonds/south-korea-10-year-bond-yield
+한국은행 ecos, 1.통화/금융 -> 1.3.금리 -> 1.3.2.시장금리 -> 1.3.2.1. 시잠금리(일별)
+
+
+CD금리
+https://www.standardchartered.co.kr/np/kr/pl/et/StandardInterestRateP.jsp
+한국은행 ecos, 1.통화/금융 -> 1.3.금리 -> 1.3.2.시장금리 -> 1.3.2.1. 시잠금리(일별)
+
+
+KOSPI200 지수 다운받는 곳
+https://kr.investing.com/indices/kospi-200-historical-data
+
+
+
